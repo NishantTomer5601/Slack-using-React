@@ -1,6 +1,6 @@
 # Ninjas React Firebase Bootcamp.
 
-Creating a simple slack clone using React and Firebase. The Bootcamp videos can be found here on YouTube - [Part1](https://www.youtube.com/watch?v=Lu-EiHiJxLU&ab_channel=CodingNinjasIndia), [Part2](https://www.youtube.com/watch?v=a5eR-nseObE&ab_channel=CodingNinjasIndia).
+ Creating a simple slack clone using React and Firebase. The Bootcamp videos can be found here on YouTube - [Part1](https://www.youtube.com/watch?v=Lu-EiHiJxLU&ab_channel=CodingNinjasIndia), [Part2](https://www.youtube.com/watch?v=a5eR-nseObE&ab_channel=CodingNinjasIndia).
 
 ## Running the project
 
